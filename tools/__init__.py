@@ -5,3 +5,4 @@ from tools import calculator  # noqa: F401
 from tools import search  # noqa: F401
 from tools import todo  # noqa: F401
 from tools import weather  # noqa: F401
+from tools import python_executor  # noqa: F401
